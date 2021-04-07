@@ -1,3 +1,3 @@
 Posh-Library
 
-Collection of PowerShell Snippits and functions.
+Collection of PowerShell Snippets and functions.
